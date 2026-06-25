@@ -77,7 +77,6 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-jgfurlan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgfurlan)
-[![Instagram](https://www.instagram.com/jgfurlan_)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jgfurlan)
 
 ---
