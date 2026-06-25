@@ -64,7 +64,7 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 
 ## What I'm Doing
 
-- **Spec-Driven Development** — Writing Atomic Feature Specs before touching code; letting agents implement, not improvise
+- **Spec-Driven Development** — Writing Atomic Feature Specs before touching code; 
 - **Building agentic infrastructure** — Graphify, GitNexus, and agy form my personal agentic dev stack
 - **Contributing to OSS** — Starting with Warp terminal; more in the pipeline
 - **Hunting remote contracts** — AI/ML Engineering roles with US-based companies (open to contract/freelance)
