@@ -88,6 +88,6 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 | **Agent orchestration** | LangGraph, LangChain, AWS Bedrock, Antigravity CLI |
 | **Backend** | Python, FastAPI, Node.js, Fastify, Java/Quarkus |
 | **Frontend** | React, TypeScript |
-| **Infra** | Docker, GitHub Actions, AWS ECS, Railway, Vercel |
-| **Databases** | ChromaDB, PostgreSQL, Snowflake |
+| **Infra** | Docker, GitHub Actions, AWS ECS, Railway, Vercel, Redis, Terraform |
+| **Databases** | ChromaDB, PostgreSQL, Snowflake, Supabase, Prisma |
 | **Languages** | Python · TypeScript · Rust (contributor) · Java |
