@@ -17,10 +17,6 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 
 ## Start Here
 
-- 🧠 **[Antigravity CLI (agy)](https://github.com/jgfurlan/antigravity-cli)** — Spec-Driven agentic coding tool. My primary coding agent. Now natively supported in [Warp terminal](https://github.com/warpdotdev/warp/pull/12380).
-- 🔗 **[Graphify](https://github.com/jgfurlan/graphify)** — Code knowledge graph & codebase indexing for agentic sessions
-- 🔁 **[GitNexus](https://github.com/jgfurlan/gitnexus)** — Session restoration and context continuity across agent runs
-- 🤖 **[rag-agent-pipeline](https://github.com/jgfurlan/rag-agent-pipeline)** — Production RAG pipeline: LangGraph StateGraph + AWS Bedrock + ChromaDB + FastAPI → AWS ECS
 - 🌊 **[ocean-vortex](https://github.com/jgfurlan/ocean-vortex)** — Modeled on Carnival Corporation's real AI architecture: Guest Genome, OceanNow, OceanMedallion, Snowflake
 - 💳 **[NexusWallet](https://github.com/jgfurlan/nexuswallet)** — Production-grade crypto wallet REST API (Fastify/Node.js + React, Railway + Vercel)
 - ☕ **[NeuroTask Agent](https://github.com/jgfurlan/neurotask-agent)** — Autonomous task orchestrator built with Java, Quarkus, GraalVM, and LangChain4j
@@ -29,23 +25,15 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 
 ## Current Projects
 
-### Agentic Dev Tooling
-- 🧬 **[Antigravity CLI](https://github.com/jgfurlan/antigravity-cli)** — CWD-framework-based coding agent with Atomic Feature Specs and RLVR reward signals
-- 🗂️ **[Graphify](https://github.com/jgfurlan/graphify)** — Authorial codebase memory: knowledge graph indexing for long agentic sessions
-- 🔁 **[GitNexus](https://github.com/jgfurlan/gitnexus)** — Git-backed session restoration and context continuity
-
 ### RAG & Multi-Agent Systems
-- 🤖 **[rag-agent-pipeline](https://github.com/jgfurlan/rag-agent-pipeline)** — LangGraph StateGraph CWD architecture, AWS Bedrock, ChromaDB, FastAPI, Docker, GitHub Actions → AWS ECS
 - 🌊 **[ocean-vortex](https://github.com/jgfurlan/ocean-vortex)** — Inspired by Carnival Corporation's AI stack: medallion-based guest intelligence system
+- ☕ **[NeuroTask Agent](https://github.com/jgfurlan/neurotask-agent)** — Autonomous task orchestrator: Java / Quarkus / GraalVM native image / LangChain4j
+- 🏦 **[fintech-fiap-2026](https://github.com/jgfurlan/fintech-fiap-2026)** — *(description coming soon)*
 
 ### Production APIs & Full-Stack
 - 💳 **[nexus-wallet](https://github.com/jgfurlan/nexus-wallet)** — Crypto wallet REST API with JWT auth (HttpOnly cookies), webhook support, and QA-hardened UI
 - 🌿 **[terrapulse](https://github.com/jgfurlan/terrapulse)** — *(description coming soon)*
-- 🏦 **[fintech-fiap-2026](https://github.com/jgfurlan/fintech-fiap-2026)** — *(description coming soon)*
 - 🤝 **[JOVI-Flow-FIAP-2026](https://github.com/jgfurlan/JOVI-Flow-FIAP-2026)** — *(description coming soon)*
-
-### Java & JVM
-- ☕ **[NeuroTask Agent](https://github.com/jgfurlan/neurotask-agent)** — Autonomous task orchestrator: Java / Quarkus / GraalVM native image / LangChain4j
 
 ---
 
