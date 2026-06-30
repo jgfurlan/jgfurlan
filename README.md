@@ -40,7 +40,6 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 ## Open Source Contributions
 
 - 🦀 **[warpdotdev/warp #12380](https://github.com/warpdotdev/warp/pull/12380)** — Added native Antigravity CLI (agy) support to Warp terminal (Rust codebase, merged ✅)
-- 🎙️ **[Natively AI Assistant](https://github.com/jgfurlan/natively-cluely-ai-assistant)** — Interview coaching prompt system built on top of Natively (TypeScript + Rust stack)
 
 ---
 
