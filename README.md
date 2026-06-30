@@ -15,14 +15,6 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 
 ---
 
-## Start Here
-
-- 🌊 **[ocean-vortex](https://github.com/jgfurlan/ocean-vortex)** — Modeled on Carnival Corporation's real AI architecture: Guest Genome, OceanNow, OceanMedallion, Snowflake
-- 💳 **[NexusWallet](https://github.com/jgfurlan/nexuswallet)** — Production-grade crypto wallet REST API (Fastify/Node.js + React, Railway + Vercel)
-- ☕ **[NeuroTask Agent](https://github.com/jgfurlan/neurotask-agent)** — Autonomous task orchestrator built with Java, Quarkus, GraalVM, and LangChain4j
-
----
-
 ## Current Projects
 
 ### RAG & Multi-Agent Systems
