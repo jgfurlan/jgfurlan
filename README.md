@@ -68,7 +68,7 @@ Building systems where AI agents do the heavy lifting — RAG pipelines, multi-a
 | Layer | Tools |
 |---|---|
 | **Agent orchestration** | LangGraph, LangChain, AWS Bedrock, Antigravity CLI |
-| **Backend** | Python, FastAPI, Node.js, Fastify, Java/Quarkus/Springboot, Typescript |
+| **Backend** | Python, Node.js, Fastify, Nest, Java/Quarkus/Springboot, Typescript |
 | **Frontend** | React, TypeScript |
 | **Infra** | Docker, GitHub Actions, AWS ECS, Railway, Vercel, Redis, Terraform |
 | **Databases** | ChromaDB, PostgreSQL, Snowflake, Supabase, Prisma |
