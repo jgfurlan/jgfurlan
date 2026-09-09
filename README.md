@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Furlan 👋
 
-📍 **Assis, SP — Brazil** | 🤖 **Agentic AI/ML Engineer** | 🚀 **Open for remote contracts (US/global)**
+📍 **Assis, SP — Brazil** | 🤖 **Agentic AI/ML Engineer** | 🚀 **Open for remote contracts (US/global)** | 💻 **Full-Stack Enginner at Nexus Cripto - Solucoes Financeiras**
 
 Building systems where AI agents do the heavy lifting — RAG pipelines, multi-agent orchestration, and the dev tooling that makes it all move fast.
 
