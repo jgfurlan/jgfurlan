@@ -1,75 +1,48 @@
-# Hi, I'm Gabriel Furlan 👋
+# Hi, I'm João Gabriel Furlan 👋
 
-📍 **Assis, SP — Brazil** | 🤖 **Agentic AI/ML Engineer** | 🚀 **Open for remote contracts (US/global)** | 💻 **Full-Stack Enginner at Nexus Cripto - Solucoes Financeiras**
+**Full-Stack Engineer · TypeScript, Node.js, React, PostgreSQL** — fintech backends and LLM features in production.
+📍 Brazil (UTC-3, overlaps US Eastern) · Fluent English · Open to remote contract and full-time roles with US/Canadian teams.
 
-Building systems where AI agents do the heavy lifting — RAG pipelines, multi-agent orchestration, and the dev tooling that makes it all move fast.
-
----
-
-## Current Projects
-
-### RAG & Multi-Agent Systems
-- 🌊 **[ocean-vortex](https://github.com/jgfurlan/ocean-vortex)** — Inspired by Carnival Corporation's AI stack: medallion-based guest intelligence system
-- ☕ **[NeuroTask Agent](https://github.com/jgfurlan/neurotask-agent)** — Autonomous task orchestrator: Java / Quarkus / GraalVM native image / LangChain4j
-- 🏦 **[fintech-fiap-2026](https://github.com/jgfurlan/fintech-fiap-2026)** — *(description coming soon)*
-
-### Production APIs & Full-Stack
-- 💳 **[nexus-wallet](https://github.com/jgfurlan/nexus-wallet)** — Crypto wallet REST API with JWT auth (HttpOnly cookies), webhook support, and QA-hardened UI
-- 🌿 **[terrapulse](https://github.com/jgfurlan/terrapulse)** — *(description coming soon)*
-- 🤝 **[JOVI-Flow-FIAP-2026](https://github.com/jgfurlan/JOVI-Flow-FIAP-2026)** — *(description coming soon)*
+Currently a Full-Stack Engineer at **Hubib SuperApp (Nexus Financial Solutions)**, a fintech combining digital banking (Pix), crypto swaps and rewards.
 
 ---
 
-## Open Source Contributions
+## What I work on
 
-- 🦀 **[warpdotdev/warp #12380](https://github.com/warpdotdev/warp/pull/12380)** — Added native Antigravity CLI (agy) support to Warp terminal (Rust codebase, merged ✅)
-
----
-
-## GitHub Activity
-
-[![GitHub Contribution Graph](https://ghchart.rshah.org/jgfurlan)](https://github.com/jgfurlan)
+- **Money movement that doesn't double-count** — idempotent deposits/withdrawals with PostgreSQL unique constraints and row-level locks (Prisma)
+- **Crypto wallets** — HD deposit address derivation and hot-wallet sweeping on Polygon PoS (NestJS, Ethers.js v6)
+- **LLM features that fail closed** — Anthropic Claude SDK with Zod-validated structured output, rate limits and prompt-injection checks
+- **Data & automation** — before software, 11 years in operations at a clinical diagnostics lab, where I automated data analysis and built a supply-chain system on ERP data (Python, FastAPI, SQL, scikit-learn, web scraping)
 
 ---
 
-## What I'm Doing
+## Projects
 
-- **Spec-Driven Development** — Writing Atomic Feature Specs before touching code; 
-- **Building agentic infrastructure** — Graphify, GitNexus, and agy form my personal agentic dev stack
-- **Contributing to OSS** — Starting with Warp terminal; more in the pipeline
-- **Hunting remote contracts** — AI/ML Engineering roles with US-based companies (open to contract/freelance)
+- 💳 **[nexus-wallet](https://github.com/jgfurlan/nexus-wallet)** — Wallet API with idempotent withdrawals, swaps with cached price quotes, HttpOnly cookie auth. Fastify · Prisma · PostgreSQL · Redis · React. [Live demo](https://nexus-wallet-ashy.vercel.app)
+- 🌊 **[ocean-vortex](https://github.com/jgfurlan/ocean-vortex)** — Multi-agent reference architecture: LangGraph supervisor/worker orchestration with a verifier step. Python · FastAPI · Docker
 
----
+## Open source
 
-## Philosophy
-
-> "If the infrastructure isn't there, I ship it."
-
-**Random Facts**
-- 10 years Python, 3 years deep in GenAI engineering
-- My coding agent stack: `agy` + Claude Code + Warp + Rose Pine everywhere
-- Cat dad (Billy and Garfield)
-- Poker player (Spin & Go, PokerStars)
-- Guitarrist
-- Football ⚽
-- Based in the interior of São Paulo, building for the world
+- 🦀 **[warpdotdev/warp #12380](https://github.com/warpdotdev/warp/pull/12380)** — Added native Antigravity CLI (agy) support to the Warp terminal. Rust, spec-first, merged June 2026 ✅
 
 ---
 
-## Connect
+## Stack
+
+| Area | Tools |
+|---|---|
+| **Backend** | TypeScript, Node.js (Fastify, NestJS), Python (FastAPI) |
+| **Data** | PostgreSQL, Prisma, Redis, SQL, scikit-learn |
+| **Frontend** | React, Vite, Tailwind CSS |
+| **LLM** | Claude/OpenAI APIs, structured outputs, tool calling, RAG, LangGraph |
+| **Infra & quality** | Docker, GitHub Actions, Vercel, S3/Backblaze B2, Jest, Vitest |
+| **Also** | Java (Quarkus, Spring Boot), Rust (OSS contributor) |
+
+---
+
+## Off the clock
+
+Cat dad (Billy and Garfield) · guitarist · poker · football ⚽
 
 [![LinkedIn](https://img.shields.io/badge/-jgfurlan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jgfurlan)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jgfurlan)
-
----
-
-### Stack
-
-| Layer | Tools |
-|---|---|
-| **Agent orchestration** | LangGraph, LangChain, AWS Bedrock, Antigravity CLI |
-| **Backend** | Python, Node.js, Fastify, Nest, Java/Quarkus/Springboot, Typescript |
-| **Frontend** | React, TypeScript |
-| **Infra** | Docker, GitHub Actions, AWS ECS, Railway, Vercel, Redis, Terraform |
-| **Databases** | ChromaDB, PostgreSQL, Snowflake, Supabase, Prisma |
-| **Languages** | Python · TypeScript · Rust (contributor) · Java |
+📩 joaogfurlan@hotmail.co.uk
