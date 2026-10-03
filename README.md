@@ -16,14 +16,9 @@ Currently a Full-Stack Engineer at **Hubib SuperApp (Nexus Financial Solutions)*
 
 ---
 
-## Projects
-
-- 💳 **[nexus-wallet](https://github.com/jgfurlan/nexus-wallet)** — Wallet API with idempotent withdrawals, swaps with cached price quotes, HttpOnly cookie auth. Fastify · Prisma · PostgreSQL · Redis · React. [Live demo](https://nexus-wallet-ashy.vercel.app)
-- 🌊 **[ocean-vortex](https://github.com/jgfurlan/ocean-vortex)** — Multi-agent reference architecture: LangGraph supervisor/worker orchestration with a verifier step. Python · FastAPI · Docker
-
 ## Open source
 
-- 🦀 **[warpdotdev/warp #12380](https://github.com/warpdotdev/warp/pull/12380)** — Added native Antigravity CLI (agy) support to the Warp terminal. Rust, spec-first, merged June 2026 ✅
+- 🦀 **[warpdotdev/warp #12380](https://github.com/warpdotdev/warp/pull/12380)** — Added native Antigravity CLI (agy) support to the Warp terminal. Rust, closes #11368, merged June 2026 ✅
 
 ---
 
